@@ -73,3 +73,4 @@ public class Sec_Min {
 
     }
 }
+// thank you for visiting the problem
